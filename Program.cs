@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TodoLogic
+namespace Todo
 {
-    class Program
+    class TodoLogic
     {
         private static TodoLogic _logic = new TodoLogic();
 
